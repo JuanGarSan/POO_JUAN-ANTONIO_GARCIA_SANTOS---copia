@@ -1,6 +1,6 @@
 {
     "java.project.sourcePaths": [
-        "05_Clases",
-        "06_Figuras"
+        "08_Cadenas",
+        "Arreglos"
     ]
 }
